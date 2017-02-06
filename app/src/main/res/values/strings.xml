@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JAPT</string>
+    <string name="add_task">Tap to add task</string>
+    <string name="description_play_pause">Start the timer</string>
+    <string name="description_stop">Stop and reset the timer</string>
+    <string name="dummy_minutes">00m 00s</string>
+    <string name="notification_work_title">Working</string>
+    <string name="notification_work_body">You need to focus</string>
+    <string name="notification_break_title">Break</string>
+    <string name="notification_break_body">Enjoy your break!</string>
+</resources>
